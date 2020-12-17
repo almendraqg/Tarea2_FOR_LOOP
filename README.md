@@ -43,6 +43,8 @@ Se reemplaza la columna exportaciones siguiendo algunos requerimientos (se redon
 
 ### Gráficos para conocer más detalles de las datos por país durante el periodo completo:
 
+<hr>
+
 Gráfico del porcentaje de participación de mujeres que trabajan en la empresa
 
 ![mujeres](https://github.com/almendraqg/Tarea2_FOR_LOOP/blob/master/mujeres.png)
