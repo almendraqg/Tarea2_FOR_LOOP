@@ -45,8 +45,16 @@ Se reemplaza la columna exportaciones siguiendo algunos requerimientos (se redon
 
 Gráfico del porcentaje de participación de mujeres que trabajan en la empresa
 
+![mujeres](url completa de la imagen)
+
 Monto en millones de dólares de cuanto importan estas empresas
+
+![importaciones](url completa de la imagen)
 
 Gráfico de ingresos para cada país durante los periodos de muestra
 
+![ingresos](url completa de la imagen)
+
 Gráfico de reservas para cada país durante los periodos de muestra
+
+![reservas](url completa de la imagen)
