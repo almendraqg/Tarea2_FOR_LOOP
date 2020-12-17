@@ -1,4 +1,3 @@
-# Tarea2_FOR_LOOP
 # TAREA 2 FOR-LOOP
 
 <hr>
@@ -39,3 +38,15 @@ Se reemplaza la columna exportaciones siguiendo algunos requerimientos (se redon
 - Con 1 cuando es mayor a 2,1
 - Con un 2 cuando es menor 2,1
 - Con 3 cuando es igual a 2,1
+
+## 7 Interrogantes
+
+### Gráficos para conocer más detalles de las datos por país durante el periodo completo:
+
+Gráfico del porcentaje de participación de mujeres que trabajan en la empresa
+
+Monto en millones de dólares de cuanto importan estas empresas
+
+Gráfico de ingresos para cada país durante los periodos de muestra
+
+Gráfico de reservas para cada país durante los periodos de muestra
