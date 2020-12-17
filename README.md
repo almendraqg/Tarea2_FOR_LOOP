@@ -45,16 +45,16 @@ Se reemplaza la columna exportaciones siguiendo algunos requerimientos (se redon
 
 Gráfico del porcentaje de participación de mujeres que trabajan en la empresa
 
-![mujeres](url completa de la imagen)
+![mujeres](https://github.com/almendraqg/Tarea2_FOR_LOOP/blob/master/mujeres.png)
 
 Monto en millones de dólares de cuanto importan estas empresas
 
-![importaciones](url completa de la imagen)
+![importaciones](https://github.com/almendraqg/Tarea2_FOR_LOOP/blob/master/importaciones.png)
 
 Gráfico de ingresos para cada país durante los periodos de muestra
 
-![ingresos](url completa de la imagen)
+![ingresos](https://github.com/almendraqg/Tarea2_FOR_LOOP/blob/master/ingresos.png)
 
 Gráfico de reservas para cada país durante los periodos de muestra
 
-![reservas](url completa de la imagen)
+![reservas](https://github.com/almendraqg/Tarea2_FOR_LOOP/blob/master/reservas.png)
